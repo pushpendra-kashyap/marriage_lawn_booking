@@ -21,7 +21,7 @@ function Navbar() {
             to="/"
             className="text-Black text-2xl animate-bounce font-semibold font-serif"
           >
-            marriage lawn
+            Wedding Lawn
           </Link>
           <div>
             <div className="text-black items-center hidden md:flex md:items-center gap-10  ">
